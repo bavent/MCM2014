@@ -1,7 +1,7 @@
 # The Best There Ever Was
 ## A Mathematical Model for Ranking NCAA Coaches Across Sports and Time
 
-A dump work from the 2014 COMAP "Mathematical Contest in Modeling", to address:
+A dump of our work from the 2014 COMAP "Mathematical Contest in Modeling", to address:
 
 >PROBLEM B: College Coaching Legends
 
