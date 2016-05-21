@@ -1,0 +1,113 @@
+Teamname,Coach,Secondary,NickRank,NickInv,PageRank,PageRankInv,ApproxRank,ApproxInv,WinLossRank,WinLossInv
+UCLA,Bill Barnes [82],George Dickerson [473],98,70,57,119,32,52,78,136
+Wake Forest,Paul Amen [27],,77,70,74,119,72,52,84,136
+William & Mary,Milt Drewer [521],,85,70,100,119,103,52,89,136
+New Mexico,Marv Levy [1093],,104,70,43,119,8,52,15,136
+Dartmouth,Bob Blackman [146],,45,70,35,119,78,52,9,136
+West Texas A&M,Clark Jarnagin [936],,106,70,107,119,103,52,98,136
+California,Pete Elliott [558],,90,70,39,119,21,52,11,136
+Cincinnati,George Blackburn [144],,27,70,38,119,35,52,51,136
+Tennessee,Bowden Wyatt [2029],,69,70,24,119,45,52,82,136
+Detroit Mercy,Wally Fromhart [656],,37,70,99,119,75,52,105,136
+Yale,Jordan Olivar [1402],,53,70,109,119,108,52,74,136
+Mississippi,John Vaught [1889],,13,70,21,119,8,52,58,136
+Purdue,Jack Mollenkopf [1289],,8,70,5,119,17,52,55,136
+Clemson,Frank Howard [888],,62,70,20,119,38,52,7,136
+Virginia Tech,Frank Moseley [1315],,68,70,58,119,41,52,22,136
+Drake,Warren Gaer [668],,58,70,0,119,68,52,102,136
+Wyoming,Bob Devaney [468],,94,70,36,119,56,52,23,136
+Kansas State,Bernard Mertes [1254],,93,70,61,119,54,52,92,136
+Kansas,Jack Mitchell [1285],,46,70,77,119,53,52,80,136
+Penn State,Rip Engle [567],,25,70,28,119,60,52,26,136
+Furman,Robert King [1016],,83,70,103,119,95,52,76,136
+Cornell,George James [929],,47,70,49,119,83,52,8,136
+Missouri,Dan Devine [469],,42,70,60,119,51,52,44,136
+Oregon,Len Casanova [275],,100,70,70,119,83,52,79,136
+Pacific,Moose Myers [1342],,44,70,44,119,83,52,14,136
+Vanderbilt,Arthur Guepe [738],,63,70,66,119,48,52,57,136
+Wisconsin,Milt Bruhn [213],,7,70,4,119,13,52,54,136
+Colorado State,Tuffy Mullison [1325],,110,70,68,119,60,52,41,136
+Colgate,Fred Rice [1544],,54,70,0,119,111,52,101,136
+Duke,Bill Murray [1334],,72,70,37,119,38,52,53,136
+Brigham Young,Harold Kopp [1039],,96,70,71,119,87,52,18,136
+Washington,Jim Owens [1414],,99,70,83,119,68,52,88,136
+Illinois,Ray Eliot [553],,80,70,11,119,41,52,103,136
+Arizona State,Frank Kush [1054],,60,70,75,119,65,52,13,136
+Rutgers,John Stiegman [1754],,3,70,76,119,1,52,1,136
+Princeton,Richard Colman [345],,48,70,51,119,87,52,33,136
+Marquette,Johnny Druze [525],,36,70,89,119,78,52,99,136
+Arizona,Edward Doherty [495],,103,70,90,119,95,52,93,136
+Kentucky,Blanton Collier [339],,14,70,53,119,26,52,112,136
+Air Force,Ben Martin [1157],,4,70,15,119,1,52,2,136
+Georgia,Wallace Butts [230],,64,70,41,119,23,52,97,136
+Utah,Ray Nagel [1345],,108,70,102,119,95,52,73,136
+Nebraska,William Jennings [943],,55,70,42,119,56,52,96,136
+Hardin-Simmons,Sammy Baugh [98],,88,70,26,119,60,52,35,136
+Syracuse,Ben Schwartzwalder [1644],,24,70,16,119,26,52,32,136
+Army,Red Blaik [148],,2,70,10,119,1,52,3,136
+Wichita State,Woody Woodard [2015],,29,70,34,119,65,52,20,136
+South Carolina,Warren Giese [688],,61,70,29,119,8,52,48,136
+Baylor,Sam Boyd [171],,73,70,67,119,41,52,69,136
+Florida State,Thomas Nugent [1378],,66,70,47,119,38,52,50,136
+Alabama,Bear Bryant [215],,70,70,56,119,8,52,12,136
+Florida,Bob Woodruff [2016],,19,70,54,119,13,52,49,136
+Tulsa,Robert Dobbs [488],,28,70,19,119,1,52,42,136
+Oregon State,Tommy Prothro [1497],,95,70,48,119,26,52,56,136
+Texas Tech,DeWitt Weaver [1941],,74,70,87,119,56,52,108,136
+Miami (FL),Andy Gustafson [741],,79,70,93,119,78,52,62,136
+Navy,Eddie Erdelatz [575],,17,70,63,119,56,52,52,136
+San Jose State,Robert Titchenal [1847],,59,70,84,119,87,52,85,136
+Maryland,Tommy Mont [1294],,78,70,59,119,75,52,59,136
+New Mexico State,Warren Woodson [2020],,107,70,104,119,68,52,87,136
+Boston College,Mike Holovak [871],,33,70,32,119,72,52,40,136
+West Virginia,Art Lewis [1095],,39,70,73,119,83,52,60,136
+George Washington,Bo Sherman [1675],,41,70,88,119,92,52,61,136
+Idaho,Skip Stahley [1731],,101,70,92,119,92,52,63,136
+Virginia,Richard Voris [1898],,87,70,91,119,111,52,90,136
+Texas,Darrell Royal [1597],,23,70,6,119,21,52,10,136
+Dayton,William Kerr [996],,38,70,106,119,78,52,86,136
+Texas-El Paso,Ben Collins [340],,105,70,81,119,99,52,65,136
+Northwestern,Ara Parseghian [1430],,12,70,3,119,18,52,6,136
+Southern California,Don Clark [314],,91,70,52,119,65,52,66,136
+Oklahoma State,Cliff Speegle [1726],,16,70,12,119,26,52,21,136
+Virginia Military Institute,John McKenna [1220],,75,70,65,119,45,52,17,136
+Washington State,Jim Sutherland [1791],,92,70,40,119,23,52,24,136
+Harvard,John Yovicsin [2044],,51,70,55,119,99,52,68,136
+Auburn,Ralph Jordan [970],,1,70,22,119,1,52,5,136
+Villanova,Francis Reagan [1519],,31,70,46,119,68,52,16,136
+Michigan,Bennie Oosterbaan [1406],,40,70,95,119,60,52,70,136
+North Carolina State,Earle Edwards [549],,86,70,82,119,108,52,71,136
+Pennsylvania,Steve Sebo [1650],,49,70,69,119,92,52,107,136
+Colorado,Dallas Ward [1921],,43,70,64,119,52,52,25,136
+Louisiana State,Paul Dietzel [483],,5,70,7,119,1,52,4,136
+Tulane,Andy Pilney [1466],,67,70,72,119,54,52,111,136
+Arkansas,Frank Broyles [211],,30,70,30,119,45,52,77,136
+Holy Cross,Edward Anderson [33],,34,70,18,119,75,52,28,136
+Southern Methodist,Bill Meek [1246],,22,70,8,119,35,52,29,136
+North Texas,Odus Mitchell [1286],,18,70,27,119,30,52,27,136
+Rice,Jess Neely [1350],,21,70,14,119,18,52,30,136
+Stanford,Jack Curtice [422],,97,70,96,119,87,52,75,136
+Columbia,Aldo Donelli [502],,52,70,108,119,103,52,106,136
+Richmond,Edwin Merrick [1250],,81,70,80,119,87,52,95,136
+Iowa,Forest Evashevski [583],,6,70,2,119,8,52,19,136
+Brown,Alva Kelley [982],,50,70,62,119,95,52,36,136
+Michigan State,Duffy Daugherty [437],,89,70,50,119,18,52,94,136
+Georgia Tech,Bobby Dodd [492],,65,70,25,119,37,52,34,136
+Indiana,Phil Dickens [472],,11,70,78,119,13,52,31,136
+Texas Christian,Abe Martin [1156],,20,70,13,119,13,52,45,136
+Notre Dame,Terry Brennan [180],,10,70,17,119,32,52,43,136
+Pittsburgh,John Michelosen [1264],,56,70,23,119,30,52,39,136
+Minnesota,Murray Warmath [1925],,102,70,101,119,72,52,81,136
+Houston,Hal Lahar [1059],,26,70,33,119,32,52,47,136
+Citadel,Eddie Teague [1817],,82,70,79,119,103,52,104,136
+Ohio State,Woody Hayes [812],,9,70,1,119,1,52,46,136
+Montana,Ray Jenkins [939],,112,70,110,119,108,52,67,136
+Mississippi State,Wade Walker [1914],,71,70,97,119,48,52,83,136
+Oklahoma,Bud Wilkinson [1979],,15,70,9,119,23,52,38,136
+Davidson,Davidson_UNKNOWN_COACH,,84,70,94,119,99,52,100,136
+North Carolina,Jim Tatum [1812],,76,70,31,119,41,52,37,136
+Denver,John Roning [1582],,111,70,105,119,99,52,109,136
+Iowa State,Clay Stapleton [1735],,57,70,86,119,60,52,91,136
+Boston University,Steve Sinko [1693],,35,70,98,119,78,52,64,136
+Utah State,Everett Faunce [598],,109,70,85,119,103,52,72,136
+Texas A&M,Jim Myers [1341],,32,70,45,119,48,52,110,136

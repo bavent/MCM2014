@@ -1,0 +1,330 @@
+Rank,Name,Won,Lost,Tied,Pct.
+1,Virginia,24,1,1,0.942
+2,UCLA,22,1,3,0.904
+3,Denver,18,2,1,0.881
+4,Florida St.,23,2,3,0.875
+5,Monmouth,17,2,2,0.857
+6,Texas Tech,18,2,3,0.848
+7,Portland,17,3,1,0.833
+8,Penn,12,1,4,0.824
+9,Marquette,18,4,0,0.818
+,Seattle,17,3,2,0.818
+11,Nebraska,19,4,1,0.813
+12,Georgetown,16,3,2,0.810
+13,Michigan,18,4,1,0.804
+14,North Carolina,20,5,0,0.800
+,Radford,15,3,2,0.800
+16,Stephen F. Austin,16,3,3,0.795
+17,UCF,16,3,4,0.783
+,South Carolina,17,4,2,0.783
+,Furman,17,4,2,0.783
+20,Oral Roberts,15,4,1,0.775
+21,Santa Clara,16,4,2,0.773
+22,Florida,18,5,1,0.771
+23,Navy,16,5,0,0.762
+,Washington St.,14,3,4,0.762
+25,West Virginia,16,4,3,0.761
+26,Texas A&M,18,5,2,0.760
+27,Virginia Tech,19,5,3,0.759
+28,FGCU,13,3,4,0.750
+,Colorado Col.,15,4,3,0.750
+30,Boston U.,15,4,4,0.739
+31,James Madison,15,5,1,0.738
+,BYU,15,5,1,0.738
+33,Elon,13,3,6,0.727
+34,Harvard,12,4,2,0.722
+35,La Salle,15,5,3,0.717
+,Liberty,16,6,1,0.717
+,Southeastern La.,14,4,5,0.717
+38,Dayton,14,5,2,0.714
+39,Portland St.,12,4,3,0.711
+40,Ole Miss,16,6,2,0.708
+41,Stanford,15,6,1,0.705
+,Rutgers,13,4,5,0.705
+43,SIU Edwardsville,13,5,3,0.690
+44,Louisville,12,5,2,0.684
+45,William & Mary,8,2,7,0.676
+46,Iowa,15,7,1,0.674
+,South Ala.,14,6,3,0.674
+,Indiana,15,7,1,0.674
+,Penn St.,15,7,1,0.674
+50,Alabama St.,14,7,0,0.667
+,DePaul,13,6,2,0.667
+,Wagner,11,5,2,0.667
+,Samford,13,6,2,0.667
+,South Dakota St.,11,5,2,0.667
+,UMBC,13,6,2,0.667
+56,North Texas,14,7,1,0.659
+,Kentucky,14,7,1,0.659
+,Illinois St.,14,7,1,0.659
+59,Winthrop,11,5,3,0.658
+,Northern Ariz.,11,5,3,0.658
+61,Colorado,14,7,2,0.652
+62,Nicholls St.,12,6,2,0.650
+,Texas,12,6,2,0.650
+,South Fla.,10,4,6,0.650
+65,Arkansas,15,8,1,0.646
+66,UTEP,12,6,3,0.643
+,St. John's (NY),12,6,3,0.643
+,California,11,5,5,0.643
+,Memphis,13,7,1,0.643
+70,San Diego St.,13,7,2,0.636
+71,Stony Brook,11,6,2,0.632
+,Austin Peay,11,6,2,0.632
+73,Boise St.,13,7,3,0.630
+,Western Mich.,12,6,5,0.630
+75,Baylor,11,6,3,0.625
+,Georgia,12,7,1,0.625
+,Weber St.,10,5,5,0.625
+,Kent St.,12,7,1,0.625
+,Hartford,11,6,3,0.625
+80,Miami (OH),11,6,4,0.619
+,Utah,10,5,6,0.619
+,Tulsa,11,6,4,0.619
+,Wake Forest,12,7,2,0.619
+,Eastern Mich.,12,7,2,0.619
+,Fairfield,12,7,2,0.619
+86,Brown,10,6,1,0.618
+87,Notre Dame,13,8,1,0.614
+,Saint Francis (PA),13,8,1,0.614
+89,UC Irvine,11,7,0,0.611
+90,Hofstra,10,6,3,0.605
+,Maine,9,5,5,0.605
+,Colgate,10,6,3,0.605
+,Cal Poly,11,7,1,0.605
+94,UNC Greensboro,10,6,4,0.600
+,Charlotte,11,7,2,0.600
+,San Diego,12,8,0,0.600
+,Butler,11,7,2,0.600
+,UAB,11,7,2,0.600
+99,Jacksonville,12,8,1,0.595
+,Western Ky.,10,6,5,0.595
+101,Ball St.,11,7,4,0.591
+102,Wright St.,8,5,5,0.583
+103,Wofford,8,5,6,0.579
+,Pepperdine,10,7,2,0.579
+,Wisconsin,10,7,2,0.579
+,Evansville,9,6,4,0.579
+107,Ohio St.,10,7,3,0.575
+,Marshall,10,7,3,0.575
+,Northern Colo.,9,6,5,0.575
+,Detroit,11,8,1,0.575
+,Arkansas St.,10,7,3,0.575
+112,Minnesota,11,8,2,0.571
+113,Utah St.,10,7,5,0.568
+,UMKC,12,9,1,0.568
+115,Boston College,13,10,1,0.563
+116,Columbia,8,6,3,0.559
+,Dartmouth,8,6,3,0.559
+118,Delaware,9,7,3,0.553
+119,Coastal Caro.,10,8,2,0.550
+,UConn,11,9,0,0.550
+,Fresno St.,10,8,2,0.550
+,Arizona,9,7,4,0.550
+123,UNLV,10,8,3,0.548
+,Siena,11,9,1,0.548
+,Mercer,10,8,3,0.548
+,UT Martin,11,9,1,0.548
+127,Oklahoma St.,9,7,6,0.545
+128,Illinois,11,9,3,0.543
+129,Princeton,7,6,4,0.529
+130,Long Beach St.,8,7,3,0.528
+,Creighton,9,8,1,0.528
+,George Washington,7,6,5,0.528
+,Miami (FL),9,8,1,0.528
+,Rider,9,8,1,0.528
+,Southeast Mo. St.,8,7,3,0.528
+,La.-Lafayette,8,7,3,0.528
+,Valparaiso,8,7,3,0.528
+,Xavier,9,8,1,0.528
+139,Appalachian St.,8,7,4,0.526
+,Arizona St.,9,8,2,0.526
+,Michigan St.,9,8,2,0.526
+,Army,8,7,4,0.526
+,Tennessee,8,7,4,0.526
+,Indiana St.,10,9,0,0.526
+145,Milwaukee,10,9,1,0.525
+,Western Caro.,10,9,1,0.525
+147,Oakland,10,9,2,0.524
+148,Cal St. Fullerton,8,7,7,0.523
+149,Binghamton,8,8,2,0.500
+,Presbyterian,9,9,0,0.500
+,Duke,9,9,6,0.500
+,East Carolina,9,9,3,0.500
+,Fairleigh Dickinson,8,8,4,0.500
+,Hawaii,8,8,1,0.500
+,Iowa St.,9,9,2,0.500
+,Jackson St.,10,10,2,0.500
+,Longwood,9,9,2,0.500
+,LSU,9,9,2,0.500
+,Maryland,10,10,0,0.500
+,SMU,9,9,1,0.500
+,VCU,8,8,3,0.500
+,Kennesaw St.,9,9,1,0.500
+,UC Santa Barbara,9,9,1,0.500
+164,Morehead St.,10,11,1,0.477
+165,Central Ark.,9,10,2,0.476
+,Auburn,8,9,4,0.476
+167,Ohio,7,8,5,0.475
+,High Point,9,10,1,0.475
+,Louisiana Tech,9,10,1,0.475
+,Missouri,8,9,3,0.475
+,Utah Valley,9,10,1,0.475
+172,North Dakota St.,9,10,0,0.474
+,UNC Wilmington,9,10,0,0.474
+,Montana,7,8,4,0.474
+,Iona,7,8,4,0.474
+,Clemson,7,8,4,0.474
+,Western Ill.,8,9,2,0.474
+,Texas St.,8,9,2,0.474
+,Southern U.,8,9,2,0.474
+180,Cleveland St.,8,9,1,0.472
+,Saint Joseph's,7,8,3,0.472
+,Rice,7,8,3,0.472
+183,Belmont,7,8,2,0.471
+,Idaho St.,7,8,2,0.471
+185,Cornell,7,8,1,0.469
+,Yale,7,8,1,0.469
+187,Howard,6,7,2,0.467
+188,New Mexico,8,10,3,0.452
+,Sam Houston St.,9,11,1,0.452
+190,Massachusetts,7,9,4,0.450
+,Washington,7,9,4,0.450
+,Southern Miss.,7,9,4,0.450
+,Southern California,8,10,2,0.450
+,Marist,8,10,2,0.450
+,Loyola Chicago,6,8,6,0.450
+196,Lipscomb,6,8,5,0.447
+,Towson,8,10,1,0.447
+,St. Bonaventure,8,10,1,0.447
+,Purdue,8,10,1,0.447
+,Troy,8,10,1,0.447
+,NJIT,8,10,1,0.447
+202,South Dakota,6,8,4,0.444
+,Middle Tenn.,6,8,4,0.444
+,East Tenn. St.,7,9,2,0.444
+,Sacramento St.,7,9,2,0.444
+,Bucknell,7,9,2,0.444
+207,Prairie View,7,9,1,0.441
+208,Northeastern,6,9,6,0.429
+209,Cincinnati,8,11,1,0.425
+,Central Mich.,8,11,1,0.425
+,LIU Brooklyn,8,11,1,0.425
+212,North Florida,6,9,4,0.421
+,Lamar,7,10,2,0.421
+214,Buffalo,6,9,3,0.417
+,UC Davis,6,9,3,0.417
+,Drexel,7,10,1,0.417
+,Vermont,6,9,3,0.417
+,Providence,6,9,3,0.417
+,Richmond,6,9,3,0.417
+220,Duquesne,6,9,2,0.412
+221,UC Riverside,8,12,2,0.409
+,Wyoming,7,11,4,0.409
+223,San Francisco,6,10,4,0.400
+,Kansas,7,11,2,0.400
+225,George Mason,7,11,1,0.395
+,Gonzaga,7,11,1,0.395
+,Northwestern St.,7,11,1,0.395
+,IUPUI,5,9,5,0.395
+,Syracuse,7,11,1,0.395
+,TCU,6,10,3,0.395
+,Villanova,6,10,3,0.395
+,Saint Louis,6,10,3,0.395
+233,Robert Morris,5,9,4,0.389
+,New Hampshire,4,8,6,0.389
+,Stetson,6,10,2,0.389
+,Campbell,7,11,0,0.389
+237,Green Bay,4,8,5,0.382
+,Georgia St.,6,10,1,0.382
+,Fordham,5,9,3,0.382
+,Murray St.,6,10,1,0.382
+241,Davidson,6,11,4,0.381
+242,Northern Ill.,6,11,3,0.375
+,Charleston So.,7,12,1,0.375
+244,Central Conn. St.,7,12,0,0.368
+,Fla. Atlantic,5,10,4,0.368
+,FIU,7,12,0,0.368
+,Missouri St.,5,10,4,0.368
+,North Carolina St.,7,12,0,0.368
+,UNC Asheville,6,11,2,0.368
+250,Southern Utah,6,11,1,0.361
+,South Carolina St.,6,11,1,0.361
+252,Lafayette,5,10,2,0.353
+,Lehigh,5,10,2,0.353
+254,McNeese St.,6,12,2,0.350
+,Nevada,5,11,4,0.350
+,Oregon St.,6,12,2,0.350
+,American,6,12,2,0.350
+,Manhattan,6,12,2,0.350
+259,Quinnipiac,3,8,5,0.344
+260,Cal St. Northridge,6,12,1,0.342
+,IPFW,6,12,1,0.342
+,Toledo,6,12,1,0.342
+,Temple,6,12,1,0.342
+,Akron,5,11,3,0.342
+,La.-Monroe,6,12,1,0.342
+266,Alabama,6,12,0,0.333
+,Citadel,5,11,2,0.333
+,Seton Hall,5,11,2,0.333
+,Rhode Island,6,12,0,0.333
+,Ga. Southern,5,11,2,0.333
+271,Mt. St. Mary's,4,10,3,0.324
+,Mississippi Val.,4,10,3,0.324
+273,Eastern Ky.,5,12,2,0.316
+,UTSA,5,12,2,0.316
+,Houston Baptist,5,12,2,0.316
+276,Canisius,6,14,1,0.310
+277,Sacred Heart,5,12,1,0.306
+,USC Upstate,4,11,3,0.306
+279,St. Mary's (CA),6,14,0,0.300
+,New Mexico St.,5,13,2,0.300
+,Eastern Ill.,6,14,0,0.300
+282,Bryant,5,13,1,0.289
+,Vanderbilt,4,12,3,0.289
+,Pacific,4,12,3,0.289
+,Oregon,4,12,3,0.289
+286,Chattanooga,5,13,0,0.278
+287,Drake,3,12,5,0.275
+288,Niagara,4,13,2,0.263
+,Jacksonville St.,4,13,2,0.263
+290,Youngstown St.,4,13,1,0.250
+,Oklahoma,4,13,1,0.250
+292,Bakersfield,4,14,1,0.237
+,Gardner-Webb,4,14,1,0.237
+,Pittsburgh,4,14,1,0.237
+295,Loyola Maryland,2,11,4,0.235
+296,UALR,4,14,0,0.222
+,Air Force,3,13,2,0.222
+,Holy Cross,2,12,4,0.222
+299,Northwestern,3,14,2,0.211
+,UNI,4,15,0,0.211
+301,Idaho,4,16,0,0.200
+302,San Jose St.,3,14,1,0.194
+303,Texas Southern,3,13,0,0.188
+304,Tennessee Tech,3,15,1,0.184
+305,Loyola Marymount,3,16,1,0.175
+306,Eastern Wash.,3,15,0,0.167
+,Ark.-Pine Bluff,2,16,3,0.167
+,VMI,3,15,0,0.167
+,Mississippi St.,3,15,0,0.167
+310,Houston,1,12,3,0.156
+311,Alcorn,1,10,2,0.154
+312,Albany (NY),2,14,1,0.147
+,Col. of Charleston,2,14,1,0.147
+,Old Dominion,1,13,3,0.147
+,Colorado St.,1,13,3,0.147
+316,North Dakota,2,16,1,0.132
+,Alabama A&M,1,15,3,0.132
+318,Saint Peter's,2,15,0,0.118
+319,A&M-Corpus Christi,2,16,0,0.111
+320,Francis Marion,2,17,0,0.105
+321,Grambling,0,9,2,0.091
+322,Delaware St.,1,16,0,0.059
+,Bowling Green,0,15,2,0.059
+NR,Abilene Christian,13,5,1,0.711
+NR,Incarnate Word,10,6,3,0.605
+NR,Northern Ky.,6,10,2,0.389
+NR,Grand Canyon,5,12,1,0.306
+NR,Neb. Omaha,3,11,2,0.250
+NR,UMass Lowell,1,16,1,0.083

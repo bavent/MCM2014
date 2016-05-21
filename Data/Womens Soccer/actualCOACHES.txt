@@ -1,0 +1,71 @@
+Anson Dorrance,North Carolina,1979-2013
+Len Tsantiris,UConn,1981-2013
+Becky Burleigh,Berry,1989-1993
+Becky Burleigh,Florida,1994-2013
+Jerry Smith,Santa Clara,1987-2013
+Randy Waldrum,Tulsa,1989-1994
+Randy Waldrum,Baylor,1996-1998
+Randy Waldrum,Notre Dame,1999-2013
+John Daly,William & Mary,1987-2013
+David Lombardo,Keene St.,1981-1987
+David Lombardo,James Madison,1990-2013
+G. Guerrieri,Hardin-Simmons,1988-1989
+G. Guerrieri,Texas A&M,1993-2013
+Chris Petrucelli,Notre Dame,1990-1998
+Chris Petrucelli,Texas,1999-2011
+Chris Petrucelli,SMU,2012-2013
+Nick Cowell,Wooster,1989-1990
+Nick Cowell,Trinity (TX),1991-1998
+Nick Cowell,Baylor,1999-2002
+Nick Cowell,Sewanee,2003-2005
+Nancy Feldman,Lake Forest,1988-1989
+Nancy Feldman,Plymouth St.,1990-1994
+Nancy Feldman,Boston U.,1995-2013
+Peter Albright,Johnson St.,1981-1995
+Peter Albright,Richmond,1996-2013
+John Leaney,UC San Diego,1984-1986
+John Leaney,Macalester,1989-2009
+Mike Cook,Southern Nazarene,1993-1997
+Mike Cook,Central Oklahoma,1998-2013
+Mark Krikorian,Franklin Pierce,1990-1995
+Mark Krikorian,Hartford,1996-2000
+Mark Krikorian,Florida St.,2005-2013
+Jim Rudy,UCF,1981-1987
+Jim Rudy,Massachusetts,1988-2008
+Phil Pincince,Brown,1977-2013
+Joe Pereira,Methodist,1984-1994
+Joe Pereira,Old Dominion,1995-2013
+Ben Popoola,Park,1989-1995
+Ben Popoola,Lambuth,1996-1996
+Ben Popoola,Appalachian St.,1997-2009
+Steve Swanson,Dartmouth,1990-1995
+Steve Swanson,Stanford,1996-1999
+Steve Swanson,Virginia,2000-2013
+Jennifer Rockwood,BYU,1995-2013
+Jeff Hooker,Denver,1992-2013
+Doug Mello,Siena Heights,1986-1988
+Doug Mello,Southwest (NM),1989-1989
+Doug Mello,Luther,1990-2007
+Bill Hempen,Duke,1988-2000
+Bill Hempen,Colorado,2001-2011
+Jim Tursi,Portland,1986-1988
+Jim Tursi,Willamette,1993-2007
+Mike Tucker,Dayton,1995-2013
+Patrick Farmer,Ithaca,1987-1993
+Patrick Farmer,Penn St.,1994-2000
+Patrick Farmer,Tennessee Tech,2003-2003
+Patrick Farmer,Syracuse,2004-2007
+John Walker,Nebraska,1994-2013
+Carin Gabarra,Westmont,1987-1987
+Carin Gabarra,Navy,1993-2013
+Gene Ventriglia,Army,1986-2008
+Bob Sheehan,Kentucky,1997-2013
+Meridy Glenn,Cincinnati,1983-2007
+Markus Roeders,Marquette,1996-2013
+Tony Da Luz,San Diego,1992-1996
+Tony Da Luz,Wake Forest,1997-2013
+Ray Leone,Berry,1986-1988
+Ray Leone,Creighton,1989-1993
+Ray Leone,Clemson,1999-2000
+Ray Leone,Arizona St.,2001-2006
+Ray Leone,Harvard,2007-2013
